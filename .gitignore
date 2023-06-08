@@ -1,0 +1,5 @@
+/.vscode
+iot_gateway_v1.code-workspace
+secrets.py
+/certs/*.cert
+/certs/*.key
